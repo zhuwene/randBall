@@ -1,0 +1,19 @@
+{
+  "name": "zhuwene/rand-ball",
+  "description": "try make a package",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "zhuwene",
+      "email": "374848541@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Rand\\": "src/Rand"
+    }
+  }
+}
